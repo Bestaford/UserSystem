@@ -1,7 +1,5 @@
 # UserSystem
-A PocketMine-MP plugin that adds non-xbox auth system to your server
-
-API: [3.0.0, 3.0.1]
+A GenisysPro plugin that adds auth system to your server
 
 ## Features:
 * Displaying the player's number in the chat, if he joined server for the first time
