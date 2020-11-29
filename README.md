@@ -1,7 +1,7 @@
 # UserSystem
 A GenisysPro plugin that adds auth system to your server
 
-## Features:
+## Features
 * Displaying the player's number in the chat, if he joined server for the first time
 * No need to enter password until next restart
 * Welcome message and title
@@ -14,14 +14,14 @@ A GenisysPro plugin that adds auth system to your server
 * Ability to change password
 * Hides the password if it was accidentally entered into the chat
 
-## Commands:
+## Commands
 * /lоgоut
 * /change <old password> <new password>
 
-## Permissions:
+## Permissions
 * users.logout
 * users.change
 
-## API:
+## API
 * isLogined(Player $player) : bool
 * isRegistered(Player $player) : bool
