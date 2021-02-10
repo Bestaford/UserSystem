@@ -1,6 +1,8 @@
 # UserSystem
 A GenisysPro plugin that adds auth system to your server
-
+| Release |
+| :---: |
+| [![Download](https://img.shields.io/github/downloads/Bestaford/UserSystem/latest/total)](https://github.com/Bestaford/UserSystem/releases/download/UserSystem-1.2/UserSystem_1.2.phar)
 ## Features
 * Displaying the player's number in the chat, if he joined server for the first time
 * No need to enter password until next restart
